@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 61.6 51.5" style="enable-background:new 0 0 61.6 51.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:#4B21CD;}
+</style>
+<title>Artboard 5</title>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-12.3012" y1="27.5112" x2="19.0567" y2="-3.8467">
+		<stop  offset="2.149471e-03" style="stop-color:#9D14D3"/>
+		<stop  offset="1" style="stop-color:#4B21CD"/>
+	</linearGradient>
+	<path class="st0" d="M10.9,5.5H6.2C5.6,5.5,5.1,6,5.1,6.6s0.5,1.2,1.2,1.2h4.7c0.6,0,1.2-0.5,1.2-1.2S11.6,5.5,10.9,5.5z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-6.8412" y1="32.9712" x2="24.5167" y2="1.6133">
+		<stop  offset="2.149471e-03" style="stop-color:#9D14D3"/>
+		<stop  offset="1" style="stop-color:#4B21CD"/>
+	</linearGradient>
+	<path class="st1" d="M21.8,5.5h-4.7C16.5,5.5,16,6,16,6.6s0.5,1.2,1.2,1.2h4.7c0.6,0,1.2-0.5,1.2-1.2S22.5,5.5,21.8,5.5z"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="8.4467" y1="48.2591" x2="39.8046" y2="16.9012">
+		<stop  offset="2.149471e-03" style="stop-color:#9D14D3"/>
+		<stop  offset="1" style="stop-color:#4B21CD"/>
+	</linearGradient>
+	<path class="st2" d="M58.1,10.1h-1.9V4c0-2.2-1.8-4-4-4H4C1.8,0,0,1.8,0,4v31.1C0,37.2,1.8,39,4,39h3v8.9c0,2,1.6,3.5,3.6,3.5h10.8
+		c2,0,3.6-1.5,3.6-3.5c0,0,0,0,0,0V39h5.5v8.9c0,2,1.6,3.5,3.5,3.5h24.1c2,0,3.5-1.6,3.6-3.5V13.7C61.6,11.7,60,10.2,58.1,10.1z
+		 M22.6,37.8v10.1c0,0.7-0.5,1.2-1.2,1.2H10.6c-0.7,0-1.2-0.5-1.2-1.2V24.6c0-0.7,0.6-1.2,1.2-1.2h10.8c0.7,0,1.2,0.6,1.2,1.2V37.8z
+		 M30.4,13.8v23L25,36.7v-12c0-2-1.6-3.5-3.5-3.6H10.6c-2,0-3.6,1.6-3.6,3.5v12H4c-0.9,0-1.6-0.7-1.6-1.6V4c0-0.9,0.7-1.6,1.6-1.7
+		c0,0,0,0,0.1,0h48.2c0.9,0,1.6,0.7,1.6,1.6c0,0,0,0,0,0.1v6.2H34C32,10.2,30.5,11.8,30.4,13.8z M59.3,47.9c0,0.7-0.6,1.2-1.2,1.2
+		H34c-0.7,0-1.2-0.5-1.2-1.2V13.7c0-0.7,0.6-1.2,1.2-1.2h24.1c0.7,0,1.2,0.6,1.2,1.2V47.9z"/>
+</g>
+<circle class="st3" cx="46" cy="44.5" r="2"/>
+</svg>
